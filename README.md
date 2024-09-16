@@ -1,4 +1,4 @@
-## Learning Javascript, html and CSS 
+## Learning Javascript, HTML and CSS 
 with projects like building a calculator
 
-![image](https://github.com/user-attachments/assets/9992bf36-2c7a-490d-a506-ea8934daa37f)
+![image](https://github.com/user-attachments/assets/9be285ce-1ce4-4440-bc69-b912450aced7)
